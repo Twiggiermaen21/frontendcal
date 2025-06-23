@@ -7,7 +7,7 @@ const navItems = [
   { href: '/', label: 'Strona główna' },
   { href: '/calendar', label: 'Kalendarz' },
   { href: '/about', label: 'O nas' },
-  { href: '/contact', label: 'Kontakt' },
+  { href: '/inpainting', label: 'Inpainting' },
 ]
 
 export default function Navbar() {
